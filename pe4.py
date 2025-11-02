@@ -1,3 +1,4 @@
+#Shawn Rim and Lawrence Enroth Pair Exercise #4.
 import wikipedia
 import time
 from concurrent.futures import ThreadPoolExecutor
